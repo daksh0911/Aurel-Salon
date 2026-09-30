@@ -3,8 +3,7 @@
   "services": {
     "app": {
       "root": ".",
-      "framework": "vite",
-      "outputDirectory": "dist"
+      "framework": "vite"
     },
     "server": {
       "root": "server",
