@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.root": "/web",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.ignoreFiles": [".vscode/**", "server/**", "node_modules/**", "**/*.db", "**/*.db-*"],
+  "liveServer.settings.NoBrowser": false,
+  "task.allowAutomaticTasks": "on"
+}

@@ -1,0 +1,9 @@
+node_modules
+server/node_modules
+server/salon.db
+server/salon.db-journal
+server/salon.db-wal
+server/salon.db-shm
+web
+.DS_Store
+*.log
